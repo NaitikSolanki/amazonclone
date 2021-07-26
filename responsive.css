@@ -1,0 +1,26 @@
+@media only screen and (max-width: 1280px) {
+    html {
+        font-size: 62.5%;
+    }
+}
+
+@media only screen and (min-width: 900px) and (max-width: 1200px) {
+    html {
+        font-size: 48%;
+    }
+}
+
+@media only screen and (min-width: 600px) and (max-width: 899px) {
+    html {
+        font-size: 32%;
+    }
+}
+
+@media only screen and (min-width: 300px) and (max-width: 599px) {
+    html {
+        font-size: 14%;
+    }
+    .info {
+        line-height: 2.2rem;
+    }
+}

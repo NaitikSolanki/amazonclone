@@ -1,0 +1,7 @@
+/* if you change :root create value it can be change all selected var()  */
+
+:root {
+    --flipkart-color: #2874f0;
+    --flipkart-bgcolor: #f1f3f6;
+    --flipkart-footer-bgcolor: #172337;
+}
